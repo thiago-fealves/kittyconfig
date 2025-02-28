@@ -27,6 +27,7 @@ Este repositório contém minhas configurações personalizadas para o emulador 
 - [kitty](https://sw.kovidgoyal.net/kitty/)
 - [fish](https://fishshell.com/)
 
+
 **Passos:**
 1. Clone o repositório
 ```sh
