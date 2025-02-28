@@ -1,6 +1,5 @@
 # 🎨 Kitty Dotfiles
-<img width="1679" alt="image" src="https://github.com/user-attachments/assets/cc5da5c4-0928-4a35-ba93-4c5351f00024" />
-
+<img width="1679" alt="image" src="https://github.com/user-attachments/assets/f631cfba-1678-4d94-884f-e0e802851d78" />
 
 Este repositório contém minhas configurações personalizadas para o emulador de terminal kitty. Os ajustes incluem fonte, cores, transparência e comportamento do terminal
 
