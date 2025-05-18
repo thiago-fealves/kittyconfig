@@ -31,7 +31,7 @@ Este repositório contém minhas configurações personalizadas para o emulador 
 **Passos:**
 1. Clone o repositório
 ```sh
-git clone https://github.com/seu-usuario/kitty-config ~/.config/kitty
+git clone https://github.com/thiago-fealves/kitty-config ~/.config/kitty
 ```
 2. Abra o kitty. As configurações serão aplicadas automaticamente.
 3. Certifique-se de que o shell fish está instalado e configurado corretamente no seu sistema.
